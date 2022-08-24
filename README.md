@@ -3,6 +3,12 @@
 
   As a Data Analyst working for the charity, Education for All; the Head of Fundraising has asked me to present the data on donor insights and donation rates. Within     the Fundraising team, my objectives are to; Increase the number of donors in your database, increase the donation frequency of your donors and increase the value of   donations in your database.
   
+  I have gathered insights from the Datasets provided which are;
+  
+   • Donation Data
+   
+   • Donor Data
+   
   BUSINESS PROBLEM
   
   To use insights generated from the data provided to come up with strategies to increase value and frequency of donations for the following year.
